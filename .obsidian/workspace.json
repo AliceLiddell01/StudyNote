@@ -50,22 +50,6 @@
             }
           },
           {
-            "id": "0bea5b15407d32e8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "SQL"
-            }
-          },
-          {
             "id": "6f193b2f1f1ba334",
             "type": "leaf",
             "pinned": true,
@@ -127,12 +111,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "JDBC.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "JDBC"
             }
           },
           {
@@ -141,16 +126,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Начальная страница.md",
+                "file": "Spring/Spring core/IOC контейнер/Bean/@Configuration/@ComponentScan.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Начальная страница"
+              "title": "@ComponentScan"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -207,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 257.5
   },
   "right": {
     "id": "ce5ed2ada0df5767",
@@ -318,34 +313,42 @@
   },
   "active": "617d272ad25ca418",
   "lastOpenFiles": [
-    "Git.md",
-    "Начальная страница.md",
-    "Архив/GIT.md",
-    "Архив/Git/Уровни настроек.md",
-    "Архив/Git/local (default) настройки гит.md",
-    "Архив/Git/Global настройки гит.md",
-    "Архив/Git/System настройки гит.md",
-    "Архив/Git/Удаление файлов из git.md",
-    "Архив/Git/Переименование файлов из git.md",
-    "Архив/Git/Ветки.md",
-    "Архив/Git/Просмотр информации о ветках.md",
-    "Архив/Git/Создание ветки.md",
-    "Архив/Git/Переключение веток.md",
-    "Архив/Git/Перенос незакоммиченных изменений.md",
-    "Архив/Git/Ручной перенос веток.md",
-    "Архив/Git/Просмотр информации о коммите.md",
-    "Архив/Git/Удаление веток.md",
-    "Архив/Git/Слияние веток.md",
-    "Java.md",
-    "Git/Pull Request.md",
-    "Git/fetch.md",
-    "Git/pull.md",
-    "Git/push.md",
-    "Git/remote.md",
-    "Git/rebase.md",
-    "Git/cherry-pick.md",
-    "Git",
-    "Новая папка",
+    "@Service.md",
+    "Spring/Spring core/IOC контейнер/Bean/@Scope.md",
+    "Spring/Spring core/IOC контейнер/Bean/@Scope/@PreDestroy.md",
+    "Spring/Spring core/IOC контейнер/Bean/@Scope/@PostConstruct.md",
+    "@PostConstruct.md",
+    "Spring/Spring core/IOC контейнер/Bean/@Scope/Жизненный цикл бина.md",
+    "Spring/Spring core/IOC контейнер/Bean/@Scope",
+    "Spring/Spring core/IOC контейнер/Bean/Новая папка",
+    "@PreDestroy.md",
+    "Spring/Spring boot.md",
+    "Spring/Spring boot/@SpringBootTest.md",
+    "@SpringBootTest.md",
+    "Spring/Spring boot/@SpringBootApplicationTest.md",
+    "@SpringBootApplicationTest.md",
+    "Spring/Spring boot/@SpringBootApplication.md",
+    "@SpringBootApplication.md",
+    "Spring/Spring boot",
+    "Spring/Новая папка",
+    "Spring.md",
+    "Spring/Spring MVC.md",
+    "Spring/Spring MVC/Модель MVC.md",
+    "Spring/Spring MVC/Модель MVC/@RequestParam.md",
+    "@RequestParam.md",
+    "Spring/Spring MVC/Модель MVC/@PostMapping.md",
+    "Spring/Spring MVC/Модель MVC/@PathVariable.md",
+    "Spring/Spring MVC/Модель MVC/@GetMapping.md",
+    "Spring/Spring MVC/Модель MVC/@RequestMapping.md",
+    "@RequestMapping.md",
+    "Spring/Spring MVC/Модель MVC/jsp.md",
+    "jsp.md",
+    "Spring/Spring MVC/Модель MVC",
+    "Spring/Spring MVC/Новая папка",
+    "Spring/Spring MVC",
+    "Spring/Spring REST",
+    "Spring/Spring core/IOC контейнер/Bean/@Configuration",
+    "Spring/Spring core/IOC контейнер/Bean",
     "Cache/Pasted image 20250814223524.png",
     "Cache/Pasted image 20250812215339.png",
     "Cache/Pasted image 20250812192952.png",
@@ -355,14 +358,6 @@
     "Cache/Pasted image 20250812002648.png",
     "Cache/Pasted image 20250812002058.png",
     "Cache/Pasted image 20250812001822.png",
-    "Cache/Pasted image 20250812001625.png",
-    "HTTP/Структура запроса/Методы запросов",
-    "HTTP/Структура запроса/Новая папка",
-    "HTTP/Структура запроса",
-    "HTTP/Новая папка",
-    "HTTP",
-    "SQL/Реляционные БД/DDL",
-    "SQL/Реляционные БД/Новая папка",
-    "SQL/Реляционные БД/DML/INSERT"
+    "Cache/Pasted image 20250812001625.png"
   ]
 }
