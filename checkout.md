@@ -1,0 +1,1 @@
+**Пояснение**: Старый способ для веток: `git checkout feature-branch`. Также для создания: `git checkout -b new-branch`.
