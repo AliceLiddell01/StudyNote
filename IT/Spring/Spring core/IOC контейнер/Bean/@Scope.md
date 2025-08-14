@@ -1,5 +1,5 @@
 **Scope** определяет, сколько экземпляров [[Bean|bean]]'а создаётся и как они живут.
-Зачем: Управляет памятью и состоянием ([[singleton]] для stateless, [[prototype]] для stateful).
+Зачем: Управляет памятью и состоянием (**singleton** для stateless, **prototype** для stateful).
 
 
 - **Singleton**
